@@ -1,0 +1,13 @@
+{
+    "name": "zvax/toolz",
+    "description": "basic tools for websites",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Toolz\\": "src/"
+        }
+    }
+}
